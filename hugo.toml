@@ -1,0 +1,57 @@
+baseURL = 'http://andriesvantonder.github.io/'
+languageCode = 'en-us'
+title = 'My website'
+theme = 'hugo-profile'
+pagination.pagerSize = 3
+
+[outputs] 
+  home = ['html', 'rss', 'json']
+  page = ['html', 'rss']
+
+[menus]
+  [[menus.main]]
+    identifier = "about"
+    name = 'About Me'
+    pageRef = '/about/'
+    weight = 10
+  [[menus.main]]
+    identifier = "experience"
+    name = 'Experience'
+    pageRef = '/experience/'
+    weight = 20
+  [[menus.main]]
+    identifier = "education"
+    name = 'Education'
+    pageRef = '/education/'
+    weight = 30
+  [[menus.main]]
+    identifier = "consulting"
+    name = 'Consulting'
+    pageRef = '/consulting/'
+    weight = 40
+  [[menus.main]]
+    identifier = "training"
+    name = 'Training'
+    pageRef = '/training/'
+    weight = 50
+  [[menus.main]]
+    identifier = "contact"
+    name = 'Contact'
+    pageRef = '/contact/'
+    weight = 60
+
+[params]
+  title = 'Andries van Tonder'
+  description = 'My website'
+  favicon = '/avt.png'
+
+hero.enable = true
+hero.intro = 'Hi, my name is'
+hero.title = 'Andries'
+hero.image = '/avt_Cam.png'
+hero.bottomImage.enable = true
+hero.button.enable = true
+hero.button.name = 'CV'
+
+#hero.socialLinks.fontAwesomeIcons.icon = 'fab fa-github'
+#hero.socialLinks.fontAwesomeIcons.url = "https://example.com"

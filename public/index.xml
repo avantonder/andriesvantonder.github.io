@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Nov 2024 11:47:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:14 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/training/</link>
+      <pubDate>Thu, 21 Nov 2024 11:47:06 +0000</pubDate>
+      <guid>http://localhost:1313/training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/consulting/</link>
+      <pubDate>Thu, 21 Nov 2024 11:46:59 +0000</pubDate>
+      <guid>http://localhost:1313/consulting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Thu, 21 Nov 2024 11:46:51 +0000</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h3 id=&#34;dphil-clinical-medicine&#34;&gt;DPhil Clinical Medicine&lt;/h3&gt;&#xA;&lt;h4 id=&#34;st-catherines-college-university-of-oxford&#34;&gt;St Catherine&amp;rsquo;s College, University of Oxford&lt;/h4&gt;&#xA;&lt;h5 id=&#34;april-2013---december-2016&#34;&gt;April 2013 - December 2016&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Supervised by Prof. Angela Brueggemann, I developed tools useful to my work and the broader bacterial genomics community including a Bayesian decision model for identifying bacterial core genes and a whole genome sequence-based tool for serotyping pneumococcal genomes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure class=&#34;left&#34;&gt;&lt;img src=&#34;http://localhost:1313/avt.png&#34;&#xA;    alt=&#34;Gravel Calls&#34; width=&#34;200&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;mres-bioinformatics&#34;&gt;MRes Bioinformatics&lt;/h3&gt;&#xA;&lt;h4 id=&#34;university-of-york&#34;&gt;University of York&lt;/h4&gt;&#xA;&lt;h5 id=&#34;october-2006---september-2007&#34;&gt;October 2006 - September 2007&lt;/h5&gt;&#xA;&lt;h3 id=&#34;dphil-clinical-medicine-1&#34;&gt;DPhil Clinical Medicine&lt;/h3&gt;&#xA;&lt;h4 id=&#34;university-of-york-1&#34;&gt;University of York&lt;/h4&gt;&#xA;&lt;h5 id=&#34;october-2003---june-2006&#34;&gt;October 2003 - June 2006&lt;/h5&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Thu, 21 Nov 2024 11:46:42 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;research-associate&#34;&gt;Research Associate&lt;/h3&gt;&#xA;&lt;h4 id=&#34;department-of-veterinary-medicine-university-of-cambridge&#34;&gt;Department of Veterinary Medicine, University of Cambridge&lt;/h4&gt;&#xA;&lt;h5 id=&#34;june-2019---present&#34;&gt;June 2019 - Present&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Construct bespoke pipelines for the analysis of very large genome datasets and deliver meaningful and interpretable results&lt;/li&gt;&#xA;&lt;li&gt;Provide technical and trouble-shooting support for members of group and department&lt;/li&gt;&#xA;&lt;li&gt;Supervise PhD and undergraduate students&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;postdoctoral-fellow&#34;&gt;Postdoctoral Fellow&lt;/h3&gt;&#xA;&lt;h4 id=&#34;wellcome-sanger-institute&#34;&gt;Wellcome Sanger Institute&lt;/h4&gt;&#xA;&lt;h5 id=&#34;february-2017---may-2019&#34;&gt;February 2017 - May 2019&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Performed bioinformatics-based analyses of several large genome datasets to investigate the population structure and transmission dynamics of various bacterial pathogens.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;research-assistant&#34;&gt;Research Assistant&lt;/h3&gt;&#xA;&lt;h4 id=&#34;department-of-zoology-university-of-oxford&#34;&gt;Department of Zoology, University of Oxford&lt;/h4&gt;&#xA;&lt;h5 id=&#34;january-2012---june-2013&#34;&gt;January 2012 - June 2013&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Worked on computational projects involving sequence data obtained from both public and private databases&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;senior-genome-analyst&#34;&gt;Senior Genome Analyst&lt;/h3&gt;&#xA;&lt;h4 id=&#34;wellcome-sanger-institute-1&#34;&gt;Wellcome Sanger Institute&lt;/h4&gt;&#xA;&lt;h5 id=&#34;january-2011---december-2011&#34;&gt;January 2011 - December 2011&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Responsible for the training of new starters and oversaw the creation of a team training manual&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;genome-analyst&#34;&gt;Genome Analyst&lt;/h3&gt;&#xA;&lt;h4 id=&#34;wellcome-sanger-institute-2&#34;&gt;Wellcome Sanger Institute&lt;/h4&gt;&#xA;&lt;h5 id=&#34;september-2008---december-2010&#34;&gt;September 2008 - December 2010&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Worked on gold standard bacterial reference genomes&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 21 Nov 2024 11:41:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a versatile postdoctoral researcher with extensive and diverse experience in bacterial genomics looking for stimulating new opportunities in the bioinformatics space. The primary focus of my research is investigating the transmission dynamics of various bacterial species. My highly successful research output shows an ability to solve complex problems, work independently and in teams, develop tools and present data to a wider audience, and ultimately enable change. Alongside my research I also have a significant interest in developing reproducible bioinformatics workflows using Nextflow and training colleagues.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
